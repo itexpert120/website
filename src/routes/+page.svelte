@@ -9,10 +9,6 @@
 	import FaLaptopCode from 'svelte-icons/fa/FaLaptopCode.svelte';
 </script>
 
-<svelte:head>
-	<title>Zeeshan Ahmad</title>
-</svelte:head>
-
 <header />
 
 <main class="container main">
